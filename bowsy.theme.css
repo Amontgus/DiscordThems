@@ -91,5 +91,7 @@
 }
 
 /* Any custom CSS below here */
-
+#app-mount .content-3spvdd {
+    background-image: none;
+}
 
